@@ -1,5 +1,6 @@
 body{
-    background: linear-gradient(navy, yellow);
+    background: linear-gradient(navy, darkgoldenrod);
+    background-repeat: no-repeat;
     font-family: Arial;
     color: black;
 }
@@ -238,8 +239,8 @@ img {vertical-align: middle;}
 /*}*/
 
  
- h1 {
-     text-align:center;
-     font-size:40px;
- }
+.header{
+    text-shadow: 2px 2px yellow;
+    text-align: center;
+}
  
